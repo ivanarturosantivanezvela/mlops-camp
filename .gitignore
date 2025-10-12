@@ -1,3 +1,7 @@
+# MLflow database file
+mlflow.db
+02-experiment-tracking/mlflow.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
